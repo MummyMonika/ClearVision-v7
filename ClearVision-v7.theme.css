@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 70%;
-  --background-image: url(https://imgur.com/a/tia-naga-nwIpynG);
+  --background-image: url(https://media.discordapp.net/attachments/645912870609092621/1380944870780440647/wallhaven-7pqjmy.png?ex=6845b8a1&is=68446721&hm=f0b4128dcc7eb54d0bd57285541c2a787a62f1128c05d1fcc09e82949705e424&=&format=webp&quality=lossless&width=1503&height=845);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
@@ -38,7 +38,7 @@
   --user-modal-attachment: var(--background-attachment);
   --user-modal-filter: var(--background-filter);
   /* HOME ICON */
-  --home-icon: url(https://imgur.com/gallery/tick-tock-MVieQyr#vHz4qOu);
+  --home-icon: url(https://media.discordapp.net/attachments/645912870609092621/1380944834730397746/6k5ixd.png?ex=6845b899&is=68446719&hm=7bbed9b57d0dca4e317858e36b20819c8273dbebd640c8e63d5499c82a1a6a3b&=&format=webp&quality=lossless&width=165&height=165);
   /* FONTS */
   --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
