@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 70%;
-  --background-image: url(https://w.wallhaven.cc/full/7p/wallhaven-7pqjmy.jpg);
+  --background-image: url(https://imgur.com/o3WhKh1);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
@@ -38,7 +38,7 @@
   --user-modal-attachment: var(--background-attachment);
   --user-modal-filter: var(--background-filter);
   /* HOME ICON */
-  --home-icon: url(https://i.imgflip.com/2/6k5ixd.jpg);
+  --home-icon: url(https://imgur.com/6zzZqVo);
   /* FONTS */
   --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
