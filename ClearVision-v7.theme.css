@@ -38,7 +38,7 @@
   --user-modal-attachment: var(--background-attachment);
   --user-modal-filter: var(--background-filter);
   /* HOME ICON */
-  --home-icon: url(https://github.com/MummyMonika/image1/blob/main/soldier.jpg);
+  --home-icon: url(https://github.com/MummyMonika/image1/blob/main/soldier.jpg?raw=true);
   /* FONTS */
   --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
